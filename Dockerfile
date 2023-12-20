@@ -1,4 +1,4 @@
-FROM python:3.11.0b1
+FROM python:3.11.7
 
 MAINTAINER Emmet O'Grady <emmet789@gmail.com>
 
